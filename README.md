@@ -10,7 +10,7 @@
 * https://octolooks.com/blog/
 
 
-### Donate me and download pluin 5$: 
+### Donate me and download pluin: 
 * <a href="https://github.com/mrranh/NguyenNgocAnh/blob/main/DONATE.md"> Here </a>
 * Zalo me : +84974934443
 
