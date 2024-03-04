@@ -2,6 +2,10 @@
 ### Tool cào dữ liệu
 * I want to share the data scrapes tool and instructions for use instruct
 * Tôi muốn chia sẽ tool cào dữ liệu và hướng dẫn sử dụng 
+
+### Main function - Chức năng chính
+* Get each article and all articles of a category. Allows you to select article categories. Can be in public mode or draft mode
+* Lấy từng bài viết và toàn bộ bài viết của 1 chuyên mục . Cho phép chọn chuyên mục bài viết. Có thể để chế độ public hoặc chế độ bản nháp
   
 ### Youtube demo : 
 * [https://www.youtube.com/watch?v=yb9iGnOcxqQ&t=195s](https://www.youtube.com/watch?v=jEMt3liwc70&list=PL0bQlfzf5aF6MVV2vA4tLNAc13lpbEn6a)
@@ -10,7 +14,7 @@
 * https://octolooks.com/blog/
 
 
-### Donate me 5$ and download pluin: 
+### Donate me and download pluin: 
 * <a href="https://github.com/mrranh/NguyenNgocAnh/blob/main/DONATE.md"> Here </a>
 * Zalo me : +84974934443
 
@@ -23,3 +27,16 @@
 *Back linking to the source site<br>
 *Láy link nguồn bài viết <br>
 <img src="https://octolooks.com/wp-content/uploads/2019/07/back_linking_to_the_source_site.png" width="500"/>
+
+<br>
+<br>
+* Ảnh minh họa
+<img src="https://lh3.googleusercontent.com/pw/AP1GczPfix3m6FyjcfMJQo96e-gwx7vd21_iRHwIb3atJGoUthAqCfuL9rgXCjBEt1nV7yk47Nj1S4hz3HT48x2n6O8QNiV3tTsQvFvIur0ohQro9AKX2D8KlNG_bY9XdRYZT8AzZG34qgrBjDTA3nzVAxz5BQ1wGcMW2pacgSVsL4zWLlAVRTC3JpYnDwWAm8p8fI1NNiQUzTeo_CvsedrFbYTRVKmX9pYvkWabn754awXQTuy-fLT_FZEFpAt1glZk9bLu0sB82A3ZnT9dQGa9IGbt-y48-B4WNP1dfq-8AdhHyr-PXfLJUrEOt-_0QSt4Jxz8JIvyPV-jAabVJPLsJpxQ7lcdkXR82S9Y-d-a9qaZJeHtKS281AdvMCCEMehgaM1UyGTDm9s3RqX4WHlq9hOTS45K0UKKGdCht9tg8eRn7cxE1hGt_TZ2Xk7cjHcJGKz8B_0zVBlEbUIoPCiUdP_S0FQCnp2XNAUOwtvPpJZmvBtjv8JwpbVqY5gfvCUUAQhpcJ7U57zPx9GAa_1vmoBNkTzbaux_NusLuT85CM5MawAPr0-0vCZ8F_ZooYeRDl8XaxwJCjmTmYtjoLdPW-6ehSbYEHMrzInjLaIYtYqWG9tuFF8cA90YY_dWPzvQSpRoQAB9A_uS3qT4mW-HWKZbUl4Mk4qTCaRWka1PutoU9wlCGwEmWq5m9EXghf5n2loRq1OnJIFNu4d33hAMiXERLMEl7NXmi_tsRqlDMj8bCAixmYPIL_DcMZV86udNb5zeSYtxh7T1oVr-7O5JescH1ArLjTsle-nQ6bX5l-DstPAZEtNbC1UdRRR4OXm7ldH1aaiSEiE2PCMs8KcmQEQiFEQLYmzHrY_k3VDwMFPd_OfcMERU1ADnvmJ90LkhJIoUTlQiN6l_pdluIacFqLg1GRw6yjhUeF5mjq7BiF_x2cbe3XwaevOFNYwxtvMAAL-iKLAMsaZcbnOb8AduzRJ5-eLGmV8a24FDCpy9YY8-smB42H0wTmCsNzNW4k2M=w1665-h890-s-no-gm?authuser=0" />
+
+<br>
+<img src="https://lh3.googleusercontent.com/pw/AP1GczOm1Zdd6txUqgogExHpWnRrqgmq6FbPcLVySMr-n0npSiowlH2dErkvu5imYmAKmt6BJ_lT9Jj-YkWbjLUslkfW7ltCiZsjaWJOgQQtLs12gk4jzXxk6jvhKlbvUltoYQ11Enrs7KK8X23JDjPmmOrvpRqn6p0FW_Bgj-Mbden5eGnstz0MX7ELV55jc68ULcE5HdnYa_M9P9aSrMEOM3W5PVfOEwHI9pr_Flt9igE67oArs3oBKVo-cCj1uEkcyXaz0oGqP7JUuf4HyyiZJCj4NwusPKa9urvchGITOV5kcNZ-YpE61qvzgSXnaXCQ4UJ5gqD3E1GJQ2x_NRbjxoESPaoYTFF5zi5Cc5OlnJvjmJGVc-QLpjk-0DJbGrz58hiJeXK8Fo0nZl5gkIyA_IjJFMZiYNGH9pHs0aqH93qPWuThcmQ3f3wv2zzZax9QneFBy9DlmBaAWxVI5YuohAvAD23BMyxMoE9KJU6jUxkkWAZm2MCcVnI48o8wrPPKCbE0nFUzLNNvIllgwFWhZTDRlFLV87KZ51ULmT72tBpfnUkMWWvxIKUvB_oZzIXB0W3WWorO9kKZ5uCxKj1Xa0UIPcQDfnp3Z5vqwUc1cwKyD9vI1rzPfhEKqmwgF7gBR9oI-NN2XshpCgN2u_5EKZUmJ_P_CquUo1oV-GLYzoGC60p0JtaMv-MLplQCiyECl_fGUjHXviT1FnFi31gAxVxlPF-3a2tWEMw7mtDswrX11TT78puDywyGUxFN-3uQ0L3skIqcpzhphBzYGiAIR_fkXw04nJLDxKkyYdlrf0lEb4US5flFq1L_Cuf9xOfZaanmlteSPyyFHZ40C28JwhpY2BYIRZVRSFtu9a27VbKysc-mFVL6nUfZwQr89MBEm7I_vDQVX3-vnkqAdIM_KYAiaxTPo0hpex_Stfbfg1W7s4fWjEVcu3HYxmFzYHXfoVc2Ns-4Gm2Q3XBKikL8n9v2p6hSstVAxIZJEkFchjh5anr6lmPEui7Aa8TXpe9A=w1632-h865-s-no-gm?authuser=0">
+
+<br>
+<img src="https://lh3.googleusercontent.com/pw/AP1GczOhtMx40bCMcggkJXq2OHCP-n8iM2HIZ97S_VoluDdTPPBH8ecbCGoyKzrNCPUnlBy5yZJAo_6Jk77ouRkGQa1grp9ZmrmmNlW8TFzupRQOwIxck_V083D36DFkI54YAGEY2T03axUfVDaNY05R0LhO613SPqdf6IkcZam5Z-0dSEsleGBc_OzdWnhxSXg3vT7nuBf16UpBI-vzcUy2Ls2Xwkl-CQemKR_GSlwsWFwWZbMDIaOIUkOGouVanSytXyO_Z4R62PJn5bUtHRCaO-aDd8JNxRRz8HSBTQl-cBG_3nmv0uFiiAR6kpQIZlDHUJAJonJDUhCuLpncKp8ApNxtdw-2NmUynYkezlVpH07niMqTU-bO1czmSeprYZ0XIlu9_YBgohtjDGXa6GPBcX_xhgQTASoqmkAAmSEHfqFZ24aWKxsd_foJS-cexlewIHZXkSg-yV_HI2peFVzgEq4nKVD_R4o96rUojRucNBx4LJA1ZCUZ3gGaNMsqXZxxDlNZFzhlyCwbqz3W_L6adPafCf6Ff2tARuzGFeSR9JtxdWksr9tZkLoUCI5PCwEEEKVYNef9iw67w4-BibLK0qsRgIm1MFhGMJL1MDBmIRxTjfzrUAqxNs24riYbNmtbyUI4HDr89QRld4loaNz8mKHrhsxE6t6DAgqbxo-FObk31YzOLrqio0PPCk4b6qWMy1y52qTIMES5PlCvRcZzbj_YMCmjqWEgr3Yrh-YhzjSfF_KlBOqtt89J6jkOnx7FvbznbPWOjhjWcw1W_mxo-3tidurH3bGhl9yeFs66q4LCuHENCDwSfKiS2qiKV5k7CbuERkRnfwBqA4mogNGLs_TV2udLaGiAIYQpn62J17eBulKCTWDZh6VJGMWIBzHHMiJ95p26hOlDk-QRCWyrF-23_JzZWhNsR01mVsSZuEeCW1W3h0YL6y77NLy1AoptqU9_8ugzdD9mXwmHV8P7capQYdBP923FOpZYxFzuaC7Ovqg4Hy93ZgTxv31qGjBM=w1626-h858-s-no-gm?authuser=0">
+
+
