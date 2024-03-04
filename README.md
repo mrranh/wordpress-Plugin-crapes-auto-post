@@ -17,4 +17,5 @@
   
 ### Ảnh minh họa
 <img src="https://drive.google.com/file/d/175A7VH8Eo01fzuiylPmkrNAI-O6J37MA/view" width="500" height="600">
+<img src="https://drive.google.com/file/d/175A7VH8Eo01fzuiylPmkrNAI-O6J37MA/view" width="500"/>
 
