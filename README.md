@@ -10,12 +10,16 @@
 * https://octolooks.com/blog/
 
 
-### Donate me and download pluin : 
+### Donate me and download pluin 5$: 
 * <a href="https://github.com/mrranh/NguyenNgocAnh/blob/main/DONATE.md"> Here </a>
 * Zalo me : +84974934443
 
   
 ### Ảnh minh họa
-<img src="https://drive.google.com/file/d/175A7VH8Eo01fzuiylPmkrNAI-O6J37MA/view" width="500" height="600">
-<img src="https://drive.google.com/file/d/175A7VH8Eo01fzuiylPmkrNAI-O6J37MA/view" width="500"/>
+* Get title<br>
+* *Lấy title và lọc bài viết trùng . Chỉ lấy 1 lần<br>
+<img src="https://octolooks.com/wp-content/uploads/2019/07/content_templates.png" width="500"/>
 
+*Back linking to the source site<br>
+*Láy link nguồn bài viết <br>
+<img src="https://octolooks.com/wp-content/uploads/2019/07/back_linking_to_the_source_site.png" width="500"/>
